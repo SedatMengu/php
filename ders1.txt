@@ -1,0 +1,49 @@
+php nedir ne işe yarar ?
+
+PHP (Hypertext Preprocessor), sunucu taraflı bir programlama dilidir. 
+Özellikle web geliştirme alanında yaygın olarak kullanılmaktadır. 
+PHP, dinamik web siteleri ve web uygulamaları oluşturmak için kullanılan bir araçtır.
+
+PHP'nin yapabileceği bazı şeyler:
+
+Web Sitesi Oluşturma: PHP, HTML ile birlikte kullanılarak dinamik ve etkileşimli web siteleri oluşturmanıza olanak tanır.
+Kullanıcı girişi, form işleme, veritabanı etkileşimi gibi işlevlerle zengin web siteleri oluşturabilirsiniz.
+
+
+Veritabanı İşlemleri: PHP, veritabanlarıyla etkileşime girebilir. 
+MySQL, PostgreSQL, SQLite gibi farklı veritabanı sistemleriyle bağlantı kurabilir, 
+veri okuma, yazma, güncelleme ve silme işlemleri gerçekleştirebilirsiniz.
+
+
+Form İşleme: PHP, web formlarından alınan verileri işleyebilir. 
+Kullanıcıların doldurduğu form bilgilerini doğrulayabilir, işleyebilir ve veritabanına kaydedebilirsiniz.
+
+
+Kullanıcı Girişi ve Oturum Yönetimi: PHP, kullanıcıların giriş yapmasını sağlayabilir ve oturum yönetimi işlevlerini gerçekleştirebilir. 
+Kullanıcıların oturum açma, çıkış yapma, parola sıfırlama gibi işlemleri yönetebilirsiniz.
+
+
+Dosya İşlemleri: PHP, sunucuda dosya oluşturma, okuma, yazma ve silme gibi dosya işlemlerini yönetebilir. 
+Örneğin, kullanıcıların yüklediği dosyaları saklamak veya düzenlemek için kullanılabilir.
+
+
+E-Posta Gönderme: PHP ile e-posta gönderimi gerçekleştirebilirsiniz. 
+Kullanıcı kayıtları, iletişim formları gibi senaryolarda e-posta gönderimi yapabilirsiniz.
+
+
+Grafik ve İmaj İşleme: PHP, dinamik olarak grafik ve resimler oluşturmak veya düzenlemek için kullanılabilir. 
+Örneğin, captcha resimleri üretmek veya resim boyutunu değiştirmek gibi işlemler yapabilirsiniz.
+
+
+API Entegrasyonları: PHP, diğer web hizmetleri veya uygulamalarıyla iletişim kurmak için kullanılabilir.
+API'ları çağırmak ve veri alışverişi yapmak için kullanışlıdır.
+
+
+E-Ticaret ve Ödeme Entegrasyonları: PHP, e-ticaret siteleri oluşturabilir ve ödeme işlemlerini yönetebilir.
+Ödeme ağ geçitleriyle entegrasyonlar yapabilirsiniz.
+
+
+CMS (Content Management System) Geliştirme: PHP tabanlı içerik yönetim sistemleri oluşturabilirsiniz. 
+Bu sistemler, kullanıcılara web sitelerini kolayca yönetme ve içerik eklemeleri için araçlar sunar.
+
+
