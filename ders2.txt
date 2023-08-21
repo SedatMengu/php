@@ -1,0 +1,30 @@
+xampp kurulumu ? 
+
+xampp nedir ve neden ihtiyaç duyarız.
+
+XAMPP (Cross-Platform Apache, MySQL, PHP, and Perl) açılımıyla bilinen ücretsiz ve açık kaynaklı bir yazılım paketidir.
+XAMPP, geliştirme ve test amacıyla yerel bir web sunucusu oluşturmanıza yardımcı olur. 
+Bu paket içinde Apache HTTP Sunucusu, MySQL veritabanı yönetim sistemi, PHP programlama dili ve Perl betik dili gibi bileşenler bulunur.
+
+İşte XAMPP'in temel özellikleri ve ne işe yaradığı:
+
+Web Sunucusu (Apache): XAMPP, Apache HTTP Sunucusu'nun bir örneğini içerir.
+Bu, dinamik ve statik web sayfaları sunmanıza, yerel olarak web siteleri oluşturmanıza ve test etmenize olanak tanır.
+
+Veritabanı Yönetimi (MySQL): XAMPP, MySQL veritabanı yönetim sisteminin bir kopyasını içerir. 
+Bu, veritabanlarını oluşturmanıza, yönetmenize ve test etmenize olanak sağlar. 
+Özellikle dinamik web siteleri ve uygulamalar için veritabanı işlemlerini yerel olarak gerçekleştirmenizi sağlar.
+
+Sunucu Tarafı Programlama (PHP ve Perl): XAMPP, PHP ve Perl gibi sunucu tarafı programlama dillerinin çalıştırılmasını destekler. 
+Bu dillerle dinamik içerik oluşturabilir, kullanıcı girişi işlemleri yapabilir ve web uygulamaları geliştirebilirsiniz.
+
+FTP Sunucusu: XAMPP içerisinde bulunan ProFTPD bileşeni, dosyalarınızı yerel sunucunuza yüklemek ve 
+yönetmek için FTP (Dosya Transfer Protokolü) sunucusu sağlar.
+
+Kolay Kurulum ve Yönetim: XAMPP, kolay bir kurulum süreci sunar ve bir kontrol paneli aracılığıyla 
+bileşenlerinizi başlatma, durdurma ve yapılandırma işlemlerini basit bir şekilde gerçekleştirebilirsiniz.
+
+Çapraz Platform Desteği: XAMPP, Windows, macOS ve Linux gibi farklı işletim sistemlerinde çalışabilir. 
+Bu sayede projelerinizi farklı platformlarda geliştirip test edebilirsiniz.
+
+
